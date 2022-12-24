@@ -73,7 +73,7 @@ TextLabel_2.BackgroundColor3 = Color3.fromRGB(255, 0, 4)
 TextLabel_2.Position = UDim2.new(0.0490797535, 0, 0.465218186, 0)
 TextLabel_2.Size = UDim2.new(0, 82, 0, 22)
 TextLabel_2.Font = Enum.Font.SourceSansBold
-TextLabel_2.Text = "FE NeptunianV"
+TextLabel_2.Text = "SnakeFE"
 TextLabel_2.TextColor3 = Color3.fromRGB(0, 0, 0)
 TextLabel_2.TextSize = 14.000
 
@@ -89,7 +89,7 @@ neptunian.Text = "EXECUTE"
 neptunian.TextColor3 = Color3.fromRGB(0, 0, 0)
 neptunian.TextSize = 14.000
 neptunian.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGet(('https://raw.githubusercontent.com/mememasterboi/a-lot-of-scripts/master/Obfuscate Template.txt'),true))()
+	loadstring(game:HttpGet(('https://pastefy.ga/tWBTcE4R/raw'),true))()
 end)
 
 UICorner_6.Parent = neptunian
