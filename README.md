@@ -104,7 +104,7 @@ baller.Text = "EXECUTE"
 baller.TextColor3 = Color3.fromRGB(0, 0, 0)
 baller.TextSize = 14.000
 baller.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/selecteduseromg343/ballerv2/main/baller.md"))()
+	loadstring(game:HttpGet("https://pastefy.ga/4Zl6H2tz"))()
 end)
 
 UICorner_7.Parent = baller
